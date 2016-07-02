@@ -1,6 +1,6 @@
 <item>
 <title>BBC One</title>
-<link>http://bbcfmhds.vo.llnwd.net/hds-live/livepkgr/_definst_/bbc1/bbc1_800.f4m</link>
+<link>hds://a.files.bbci.co.uk/media/live/manifests/hds/pc/llnw/bbc_one_hd.f4m</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
