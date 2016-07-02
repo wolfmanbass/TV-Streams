@@ -13,13 +13,6 @@
 </item>
 
 <item>
-<title>SportsFan TV - HD </title>
-<link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>BPM Music </title>
 <link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med</link>
 <thumbnail></thumbnail>
