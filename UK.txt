@@ -1,1 +1,7 @@
-https://support.bbc.co.uk/multicast/sdp/bbcone-avc.sdp
+<item>
+<title>BBC One</title>
+<link>https://support.bbc.co.uk/multicast/sdp/bbcone-avc.sdp</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
