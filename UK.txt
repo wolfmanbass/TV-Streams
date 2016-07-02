@@ -1,6 +1,6 @@
 <item>
 <title>BBC One</title>
-<link>https://support.bbc.co.uk/multicast/sdp/bbcone-avc.sdp</link>
+<link>http://bbcfmhds.vo.llnwd.net/hds-live/livepkgr/_definst_/bbc1/bbc1_800.f4m</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
