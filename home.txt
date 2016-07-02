@@ -4,7 +4,7 @@
 <channels>
     <channel>
         <name>Australian Live TV</name>
-        <thumbnail>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/images/au.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/AU.txt</externallink>
         <fanart></fanart>
         <info>SimpleKore.com</info>
@@ -12,7 +12,7 @@
     
     <channel>
         <name>UK Live TV</name>
-        <thumbnail>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/images/uk.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/uk.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/UK.txt</externallink>
         <fanart></fanart>
         <info>SimpleKore.com</info>
