@@ -17,6 +17,14 @@
         <fanart></fanart>
         <info>SimpleKore.com</info>
     </channel>
+    
+     <channel>
+        <name>Music TV</name>
+        <thumbnail></thumbnail>
+        <externallink>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/musictv.txt</externallink>
+        <fanart></fanart>
+        <info>SimpleKore.com</info>
+    </channel>
 
 
 </channels>
