@@ -1,0 +1,6 @@
+<item>
+<title>ABC News</title>
+<link>http://www.abc.net.au/res/streaming/video/hls/news.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
