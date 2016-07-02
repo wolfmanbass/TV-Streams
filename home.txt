@@ -9,6 +9,14 @@
         <fanart></fanart>
         <info>SimpleKore.com</info>
     </channel>
+    
+    <channel>
+        <name>UK Live TV</name>
+        <thumbnail></thumbnail>
+        <externallink>https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/UK.txt</externallink>
+        <fanart></fanart>
+        <info>SimpleKore.com</info>
+    </channel>
 
 
 </channels>
