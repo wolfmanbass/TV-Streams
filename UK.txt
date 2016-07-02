@@ -1,6 +1,6 @@
 <item>
 <title>BBC One</title>
-<link>http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3=96000-video=827000.m3u8</link>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/low/llnw/bbc_radio_one.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
