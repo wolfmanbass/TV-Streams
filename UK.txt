@@ -1,5 +1,5 @@
 <item>
-<title>BBC One</title>
+<title>CBBC</title>
 <link>http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=5070000.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -13,3 +13,10 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=2812000.m3u8
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=5070000.m3u8
 -->
+
+<item>
+<title>CBBC</title>
+<link>http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/bbcone_hd/bbcone_hd.isml/bbcone_hd-pa3=96000-video=5070000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
