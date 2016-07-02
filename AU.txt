@@ -19,4 +19,11 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>BPM Music </title>
+<link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
