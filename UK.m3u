@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://example.com/yourlogoname.png", ESPN 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png", ESPN 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png",UK | 3e 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
