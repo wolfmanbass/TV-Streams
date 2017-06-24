@@ -5,7 +5,7 @@ http://vip.groupiptv.com:7000/live/ayoub/ayoub/3481.ts
 
 
 
-#EXTINF:-1,UK | 3e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png",UK | 3e 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
 #EXTINF:-1,UK | 5 Star
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3479.ts
