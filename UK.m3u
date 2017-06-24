@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png", ESPN 
+#EXTINF:-1 group-title="Group 1" tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png", ESPN 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
-#EXTINF:-1,UK | 3e 
+#EXTINF:-1 group-title="Group 1",UK | 3e 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
-#EXTINF:-1,UK | 5 Star
+#EXTINF:-1 group-title="Group 1",UK | 5 Star
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3479.ts
-#EXTINF:-1,UK | 5 USA
+#EXTINF:-1group-title="Group 2",UK | 5 USA
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3480.ts
-#EXTINF:-1,UK | Alibi
+#EXTINF:-1 group-title="Group 2",UK | Alibi
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3481.ts
 #EXTINF:-1,UK | Animal Planet
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3482.ts
