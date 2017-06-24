@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Group 1" tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/au.png", ESPN 
+#EXTINF:-1 group-title="Entertainment",UK | 3e 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
-#EXTINF:-1 group-title="Group 1",UK | 3e 
-http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
-#EXTINF:-1 group-title="Group 1",UK | 5 Star
+#EXTINF:-1 group-title="Entertainment",UK | 5 Star
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3479.ts
-#EXTINF:-1group-title="Group 2",UK | 5 USA
+#EXTINF:-1group-title="Entertainment",UK | 5 USA
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3480.ts
-#EXTINF:-1 group-title="Group 2",UK | Alibi
+#EXTINF:-1 group-title="Entertainment",UK | Alibi
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3481.ts
 #EXTINF:-1,UK | Animal Planet
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3482.ts
@@ -33,17 +31,17 @@ http://vip.groupiptv.com:7000/live/ayoub/ayoub/3491.ts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3492.ts
 #EXTINF:-1,UK | Boxnation
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3493.ts
-#EXTINF:-1,UK | BT Sport 1 HD
+#EXTINF:-1 group-title="Sport",UK | BT Sport 1 HD
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3494.ts
-#EXTINF:-1,UK | BT Sport 2 HD
+#EXTINF:-1 group-title="Sport",UK | BT Sport 2 HD
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3495.ts
-#EXTINF:-1,UK | BT Sport Europe
+#EXTINF:-1 group-title="Sport",UK | BT Sport Europe
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3498.ts
-#EXTINF:-1,UK | BT Sport Extra 1
+#EXTINF:-1 group-title="Sport",UK | BT Sport Extra 1
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3499.ts
-#EXTINF:-1,UK | BT Sport Extra 2
+#EXTINF:-1 group-title="Sport",UK | BT Sport Extra 2
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3500.ts
-#EXTINF:-1,UK | BT Sport Extra 3
+#EXTINF:-1 group-title="Sport",UK | BT Sport Extra 3
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3501.ts
 #EXTINF:-1,UK | BT Sport Extra 4
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3502.ts
