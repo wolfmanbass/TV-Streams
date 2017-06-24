@@ -200,7 +200,7 @@ http://vip.groupiptv.com:7000/live/ayoub/ayoub/3575.ts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3576.ts
 #EXTINF:-1,UK | Sky Living UK
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3577.ts
-#EXTINF:-1,UK | Sky Movies Action
+#EXTINF:-1,UK | Sky Movies Action 
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3578.ts
 #EXTINF:-1,UK | Sky Movies Comedy
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3579.ts
@@ -288,3 +288,5 @@ http://vip.groupiptv.com:7000/live/ayoub/ayoub/3619.ts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3620.ts
 #EXTINF:-1,UK_Sky Arts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/5329.ts
+#EXTINF:-1 tvg-id="id2" tvg-name="Historia" tvg-logo="logo1" group-title="Group 1",Historia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3600.ts
