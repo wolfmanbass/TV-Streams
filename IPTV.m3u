@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,UK | ***** U.K. *****
+#EXTINF:-1,AUS_ABC News
+http://www.abc.net.au/res/streaming/video/hls/news.m3u8
 #EXTINF:-1,UK | 3e
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
 #EXTINF:-1,UK | 5 Star
@@ -288,5 +290,3 @@ http://vip.groupiptv.com:7000/live/ayoub/ayoub/3619.ts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/3620.ts
 #EXTINF:-1,UK_Sky Arts
 http://vip.groupiptv.com:7000/live/ayoub/ayoub/5329.ts
-#EXTINF:-1 tvg-id="id2" tvg-name="Historia" tvg-logo="logo1" group-title="Group 1",Historia
-http://vip.groupiptv.com:7000/live/ayoub/ayoub/3600.ts
