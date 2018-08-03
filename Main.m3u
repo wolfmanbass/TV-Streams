@@ -25,5 +25,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/ABCAU.png" group-title="Australia",ABC Sydney
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index_1.m3u8
-#EXTINF:0, ONE (AU)
+#EXTINF:0, ONE AU
 http://yospace-cdn.networkten.com.au/video/oneten/master.m3u8
