@@ -21,5 +21,9 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
 #EXTINF:0,BBC One North East
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_east.m3u8
-#EXTINF:0,ABC News AU
+#EXTINF:0,TEST
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+
+
+
+
