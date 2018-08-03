@@ -19,7 +19,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
 #EXTINF:0,S4C
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
-#EXTINF:0,BBC One North East
+#EXTINF:0 group-title="UK",BBC One North East
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_east.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/ABCNEWSAU.png",ABC News AU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wolfmanbass/TV-Streams/master/Images/ABCNEWSAU.png" group-title="Australia",ABC News AU
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
