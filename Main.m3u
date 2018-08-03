@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0,NASA
 http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
-#BBC
 #EXTINF:0,BBC One HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 #EXTINF:0 BBC Two HD
