@@ -61,3 +61,5 @@ http://tv.105.net/live/rmc1/playlist.m3u8
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1, tvg-logo="" group-title="",XITE TV
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="",MADE IN TYNE AND WEAR
+https://www.dailymotion.com/embed/video/x5eva8m?autoPlay=1&sharing-enable=0&ui-logo=0
