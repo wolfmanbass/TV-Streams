@@ -19,7 +19,4 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
 #EXTINF:0 group-title="UK",BBC One North East
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_east.m3u8
-#EXTINF:-1,ABC News (US)
-https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/master.m3u8
-#EXTINF:-1,ABC News (AU)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
