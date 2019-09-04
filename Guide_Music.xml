@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="" source-info-name="DIY" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+	<channel id="8008">
+		<display-name>DJing</display-name>
+		<icon src="" />
+	</channel>
+	<channel id="8009">
+		<display-name>Classics</display-name>
+		<icon src="" />
+	</channel>
+	<channel id="8010">
+		<display-name>Ibiza</display-name>
+		<icon src="" />
+	</channel>
+	<channel id="8011">
+		<display-name>Avicii</display-name>
+		<icon src="" />
+	</channel>
+	<channel id="8012">
+		<display-name>Drum & Bass</display-name>
+		<icon src="" />
+	</channel>
+	<channel id="8013">
+		<display-name>Summer Vibes</display-name>
+		<icon src="" />
+	</channel>
+	<programme start="20190902000000" stop="20190930235900" channel="8008">
+		<title lang="en">24/7 Dance Music</title>
+		<desc lang="en"></desc>
+	</programme>
+	<programme start="20190902000000" stop="20190930235900"  channel="8009">
+		<title lang="en">24/7 Classic Dance</title>
+		<desc lang="en"></desc>
+	</programme>
+	<programme start="20190902000000" stop="20190930235900"  channel="8010">
+		<title lang="en">24/7 Ibiza Dance</title>
+		<desc lang="en"></desc>
+	</programme>
+	<programme start="20190902000000" stop="20190930235900"  channel="8011">
+		<title lang="en">24/7 Avicii</title>
+		<desc lang="en"></desc>
+	</programme>
+	<programme start="20190902000000" stop="20990902235900" channel="8012">
+		<title lang="en">24/7 Drum & Bass</title>
+		<desc lang="en"></desc>
+	</programme>
+	<programme start="20190902000000" stop="20190930235900"  channel="8013">
+		<title lang="en">24/7 Summer Vibes</title>
+		<desc lang="en"></desc>
+	</programme>
+</tv>
