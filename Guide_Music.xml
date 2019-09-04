@@ -5,10 +5,19 @@
 		<display-name>DJing</display-name>
 		<icon src="" />
 	</channel>
+	<channel id="8009">
+		<display-name>Classics - DJing</display-name>
+		<icon src="" />
+	</channel>
 	
-	<programme start="20190902000000" stop="20190930235900" channel="8008">
+	<programme start="20190904000000" stop="20190904235900" channel="8008">
 		<title lang="en">24/7 Dance Music</title>
 		<desc lang="en"></desc>
 	</programme>
+	
+	<programme start="20190904000000" stop="20190904235900" channel="8009">
+		<title lang="en">24/7 Classic Dance</title>
+		<desc lang="en"></desc>
+	</programme>	
 	
 </tv>
