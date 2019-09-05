@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" tvg-chno="1",Lifestyle
+http://51.79.19.218:83/live/testpass/9417253608/5613.m3u8
